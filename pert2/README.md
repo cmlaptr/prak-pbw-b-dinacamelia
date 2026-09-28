@@ -19,7 +19,7 @@ Program terdiri dari 4 file:
 
 ## 2. Kode Program & Tampilan Sebelum Modifikasi
 
-Berikut adalah tampilan screenshot program versi awal sebelum dilakukan modifikasi:
+### Berikut adalah tampilan screenshot program versi awal sebelum dilakukan modifikasi:
 
 Screenshot Program identitas.php:
 <img src="gambar/identitas-1.png" alt="identitas sebelum modifikasi">
@@ -44,7 +44,7 @@ Modifikasi yang diterapkan mencakup:
 2. Penerapan styling CSS Card Modern rata tengah (*centered*) menggunakan Flexbox.
 3. Penambahan item produk baru dalam array instansiasi objek pada `hitungModifikasi.php`.
 
-Berikut adalah tampilan screenshot program sesudah dilakukan modifikasi:
+### Berikut adalah tampilan screenshot program sesudah dilakukan modifikasi:
 
 Screenshot Program identitasModifikasi.php:
 <img src="gambar/identitasmodif.png" alt="identitas sesudah modifikasi">
