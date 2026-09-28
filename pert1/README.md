@@ -24,12 +24,14 @@ Screenshot Program Kalkulator.php:
 <img src="gambar/kalkulator-1.png" alt="kalkulator sebelum modifikasi">
 
 Output Program:
+
 <img src="gambar/output-kalkulator-1.PNG" alt="output kalkulator">
 
 Screenshot Program Biodata.php:
 <img src="gambar/biodata-1.png" alt="biodata sebelum modifikasi">
 
 Output Program:
+
 <img src="gambar/output-biodata-1.PNG" alt="output biodata">
 
 ## 3. Kode Program & Tampilan Setelah Modifikasi
