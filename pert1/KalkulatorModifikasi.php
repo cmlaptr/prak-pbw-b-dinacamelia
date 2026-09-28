@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #e0eafc, #cfdef3);
+            background: linear-gradient(135deg, #eb9cff, #cfd1f3);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -78,12 +78,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             transition: border-color 0.3s;
         }
         input:focus, select:focus {
-            border-color: #007bff;
+            border-color: #8402b8;
         }
         button {
             width: 100%;
             padding: 12px;
-            background-color: #007bff;
+            background-color: #8402b8;
             color: white;
             border: none;
             border-radius: 6px;
@@ -94,14 +94,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             margin-top: 10px;
         }
         button:hover {
-            background-color: #0056b3;
+            background-color: #ff97d7;
         }
         .result-box {
             margin-top: 20px;
             padding: 12px;
             border-radius: 6px;
             background-color: #f8f9fa;
-            border-left: 4px solid #007bff;
+            border-left: 4px solid #8402b8;
             text-align: left;
         }
         .error-box {

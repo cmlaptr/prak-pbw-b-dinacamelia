@@ -9,12 +9,12 @@ function statusKelulusan (float $ipk): string
 }
 
 $mahasiswa = [
-    'nim' => '2026001',
-    'nama' => 'Andi Pratama',
-    'fakultas' => 'Ilmu Komputer', // Modifikasi Field: Tambah Fakultas
+    'nim' => '4524210028',
+    'nama' => 'Dina Camelia',
+    'fakultas' => 'Teknik', // Modifikasi Field: Tambah Fakultas
     'prodi' => 'Teknik Informatika',
-    'semester' => 1,
-    'ipk' => 3.72
+    'semester' => 5,
+    'ipk' => 3.98
 ];
 ?>
 <!doctype html>
@@ -31,7 +31,7 @@ $mahasiswa = [
         }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #e0eafc, #cfdef3);
+            background: linear-gradient(135deg, #eb9cff, #cfd1f3);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -50,7 +50,7 @@ $mahasiswa = [
             color: #333;
             margin-bottom: 20px;
             text-align: center;
-            border-bottom: 2px solid #007bff;
+            border-bottom: 2px solid #cc00ff;
             padding-bottom: 10px;
         }
         .info-list {
