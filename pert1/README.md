@@ -18,7 +18,7 @@ Program terdiri dari 4 file :
 
 ## 2. Kode Program & Tampilan Sebelum Modifikasi & Sesudah di Modifikasi
 
-###Berikut adalah kode program versi awal beserta tampilan screenshot sebelum dilakukan modifikasi:
+### Berikut adalah kode program versi awal beserta tampilan screenshot sebelum dilakukan modifikasi:
 
 Screenshot Program Kalkulator.php:
 <img src="gambar/kalkulator-1.png" alt="kalkulator sebelum modifikasi">
@@ -41,7 +41,7 @@ Modifikasi yang diterapkan mencakup:
 2. Penambahan Operator Modulo (%) pada kalkulator.php untuk menghitung sisa hasil bagi.
 3. Penambahan Field fakultas dan logika kategori status kelulusan baru pada biodata.php.
    
-###Berikut adalah kode program beserta tampilan screenshot sesudah dilakukan modifikasi:
+### Berikut adalah kode program beserta tampilan screenshot sesudah dilakukan modifikasi:
 
 Screenshot Program KalkulatorModifikasi.php:
 <img src="gambar/kalkulatormodif.png" alt="kalkulator sesudah modifikasi">
