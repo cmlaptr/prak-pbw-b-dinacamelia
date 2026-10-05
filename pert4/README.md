@@ -24,33 +24,32 @@ Praktikum ini berfokus pada eksekusi dan manipulasi query database/skrip Pemrogr
 #### A. Tabel Contoh
 | No | Query | Output |
 | :---: | :--- | :--- |
-| 1 | <img src="gambar/select-1.png" alt="Screenshot Query Contoh 1" width="350"> | <img src="gambar/output-select-1.png" alt="Screenshot Output Contoh 1" width="350"> |
-| 2 | <img src="gambar/select-2.png" alt="Screenshot Query Contoh 2" width="350"> | <img src="gambar/output-select-2.png" alt="Screenshot Output Contoh 2" width="350"> |
-| 3 | <img src="gambar/insert-1.png" alt="Screenshot Query Contoh 3" width="350"> | <img src="gambar/output-insert-1.png" alt="Screenshot Output Contoh 3" width="350"> |
-| 4 | <img src="gambar/insert-2.png" alt="Screenshot Query Contoh 4" width="350"> | <img src="gambar/output-insert-2.png" alt="Screenshot Output Contoh 4" width="350"> |
-| 5 | <img src="gambar/update-1.png" alt="Screenshot Query Contoh 5" width="350"> | <img src="gambar/output-update-1.png" alt="Screenshot Output Contoh 5" 
-width="350"> |
-| 6 | <img src="gambar/delete.png" alt="Screenshot Query Contoh 6" width="350"> | <img src="gambar/output-delete.png" alt="Screenshot Output Contoh 6" width="350"> |
-| 7 | <img src="gambar/where-1.png" alt="Screenshot Query Contoh 7" width="350"> | <img src="gambar/output-where-1.png" alt="Screenshot Output Contoh 7" width="350"> |
-| 8 | <img src="gambar/where-2.png" alt="Screenshot Query Contoh 8" width="350"> | <img src="gambar/output-where-2.png" alt="Screenshot Output Contoh 8" width="350"> |
-| 9 | <img src="gambar/orderby-1.png" alt="Screenshot Query Contoh 9" width="350"> | <img src="gambar/output-orderby-1.png" alt="Screenshot Output Contoh 9" width="350"> |
-| 10 | <img src="gambar/orderby-2.png" alt="Screenshot Query Contoh 10" width="350"> | <img src="gambar/output-orderby-2.png" alt="Screenshot Output Contoh 10" width="350"> |
-| 11 | <img src="gambar/groupby-1.png" alt="Screenshot Query Contoh 11" width="350"> | <img src="gambar/output-groupby-1.png" alt="Screenshot Output Contoh 11" width="350"> |
-| 12 | <img src="gambar/groupby-2.png" alt="Screenshot Query Contoh 12" width="350"> | <img src="gambar/output-groupby-2.png" alt="Screenshot Output Contoh 12" width="350"> |
-| 13 | <img src="gambar/limit-1.png" alt="Screenshot Query Contoh 13" width="350"> | <img src="gambar/output-limit-1.png" alt="Screenshot Output Contoh 13" width="350"> |
-| 14 | <img src="gambar/limit-2.png" alt="Screenshot Query Contoh 14" width="350"> | <img src="gambar/output-limit-2.png" alt="Screenshot Output Contoh 14" width="350"> |
+| 1 | <img src="gambar/select-1.PNG" alt="Screenshot Query Contoh 1" width="500"> | <img src="gambar/output-select-1.PNG" alt="Screenshot Output Contoh 1" width="500"> |
+| 2 | <img src="gambar/select-2.PNG" alt="Screenshot Query Contoh 2" width="500"> | <img src="gambar/output-select-2.PNG" alt="Screenshot Output Contoh 2" width="500"> |
+| 3 | <img src="gambar/insert-1.PNG" alt="Screenshot Query Contoh 3" width="500"> | <img src="gambar/output-insert-1.PNG" alt="Screenshot Output Contoh 3" width="500"> |
+| 4 | <img src="gambar/insert-2.PNG" alt="Screenshot Query Contoh 4" width="500"> | <img src="gambar/output-insert-2.PNG" alt="Screenshot Output Contoh 4" width="500"> |
+| 5 | <img src="gambar/update-1.PNG" alt="Screenshot Query Contoh 5" width="500"> | <img src="gambar/output-update-1.PNG" alt="Screenshot Output Contoh 5" width="500"> |
+| 6 | <img src="gambar/delete.PNG" alt="Screenshot Query Contoh 6" width="500"> | <img src="gambar/output-delete.PNG" alt="Screenshot Output Contoh 6" width="500"> |
+| 7 | <img src="gambar/where-1.PNG" alt="Screenshot Query Contoh 7" width="500"> | <img src="gambar/output-where-1.PNG" alt="Screenshot Output Contoh 7" width="500"> |
+| 8 | <img src="gambar/where-2.PNG" alt="Screenshot Query Contoh 8" width="500"> | <img src="gambar/output-where-2.PNG" alt="Screenshot Output Contoh 8" width="500"> |
+| 9 | <img src="gambar/orderby-1.PNG" alt="Screenshot Query Contoh 9" width="500"> | <img src="gambar/output-orderby-1.PNG" alt="Screenshot Output Contoh 9" width="500"> |
+| 10 | <img src="gambar/orderby-2.PNG" alt="Screenshot Query Contoh 10" width="500"> | <img src="gambar/output-orderby-2.PNG" alt="Screenshot Output Contoh 10" width="500"> |
+| 11 | <img src="gambar/groupby-1.PNG" alt="Screenshot Query Contoh 11" width="500"> | <img src="gambar/output-groupby-1.PNG" alt="Screenshot Output Contoh 11" width="500"> |
+| 12 | <img src="gambar/groupby-2.PNG" alt="Screenshot Query Contoh 12" width="500"> | <img src="gambar/output-groupby-2.PNG" alt="Screenshot Output Contoh 12" width="500"> |
+| 13 | <img src="gambar/limit-1.PNG" alt="Screenshot Query Contoh 13" width="500"> | <img src="gambar/output-limit-1.PNG" alt="Screenshot Output Contoh 13" width="500"> |
+| 14 | <img src="gambar/limit-2.PNG" alt="Screenshot Query Contoh 14" width="500"> | <img src="gambar/output-limit-2.PNG" alt="Screenshot Output Contoh 14" width="500"> |
 
 
 #### B. Tabel Latihan
 | No | Query | Output |
 | :---: | :--- | :--- |
-| 1 | <img src="gambar/lat-1.png" alt="Screenshot Query Contoh 1" width="350"> | <img src="gambar/output-lat-1.png" alt="Screenshot Output Latihan 1" width="350"> |
-| 2 | <img src="gambar/lat-2.png" alt="Screenshot Query Contoh 2" width="350"> | <img src="gambar/output-lat-2.png" alt="Screenshot Output Latihan 2" width="350"> |
+| 1 | <img src="gambar/lat-1.PNG" alt="Screenshot Query Contoh 1" width="500"> | <img src="gambar/output-lat-1.PNG" alt="Screenshot Output Latihan 1" width="500"> |
+| 2 | <img src="gambar/lat-2.PNG" alt="Screenshot Query Contoh 2" width="500"> | <img src="gambar/output-lat-2.PNG" alt="Screenshot Output Latihan 2" width="500"> |
 
 #### C. Tabel Modifikasi
 | No | Query | Output |
 | :---: | :--- | :--- |
-| 1 | <img src="pert4/gambar/latmodifikasi.png" alt="Screenshot Query Modifikasi 1" width="350"> | <img src="pert4/gambar/p1-output-latmodifikasi.png" alt="Screenshot Output Modifikasi 1" width="350"> |
+| 1 | <img src="gambar/latmodifikasi.PNG" alt="Screenshot Query Modifikasi 1" width="500"> | <img src="gambar/output-latmodifikasi.PNG" alt="Screenshot Output Modifikasi 1" width="500"> |
 
 ---
 
