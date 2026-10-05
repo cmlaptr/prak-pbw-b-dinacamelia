@@ -24,21 +24,21 @@ Praktikum ini berfokus pada eksekusi dan manipulasi query database/skrip Pemrogr
 #### A. Tabel Contoh
 | No | Query | Output |
 | :---: | :--- | :--- |
-| 1 | <img src="gambar/create-db.png" alt="Screenshot Query Contoh 1" width="350"> | <img src="gambar/output-create-db.png" alt="Screenshot Output Contoh 1" width="350"> |
-| 2 | <img src="gambar/create-tabel-1.png" alt="Screenshot Query Contoh 2" width="350"> | <img src="gambar/output-create-tabel-1.png" alt="Screenshot Output Contoh 2" width="350"> |
-| 3 | <img src="gambar/connect-tabel-1.png" alt="Screenshot Query Contoh 3" width="350"> | <img src="gambar/output-connect-tabel-1.png" alt="Screenshot Output Contoh 3" width="350"> |
-| 4 | <img src="gambar/insert-1.png" alt="Screenshot Query Contoh 4" width="350"> | <img src="gambar/output-insert-1.png" alt="Screenshot Output Contoh 4" width="350"> |
+| 1 | <img src="gambar/create-db.jpeg" alt="Screenshot Query Contoh 1" width="500"> | <img src="gambar/output-create-db.PNG" alt="Screenshot Output Contoh 1" width="500"> |
+| 2 | <img src="gambar/create-tabel-1.PNG" alt="Screenshot Query Contoh 2" width="500"> | <img src="gambar/output-create-table-1.PNG" alt="Screenshot Output Contoh 2" width="500"> |
+| 3 | <img src="gambar/connect-tabel-1.PNG" alt="Screenshot Query Contoh 3" width="500"> | <img src="gambar/output-connect-tabel-1.PNG" alt="Screenshot Output Contoh 3" width="500"> |
+| 4 | <img src="gambar/insert-1.PNG" alt="Screenshot Query Contoh 4" width="500"> | <img src="gambar/output-insert-1.PNG" alt="Screenshot Output Contoh 4" width="500"> |
 
 #### B. Tabel Latihan
 | No | Query | Output |
 | :---: | :--- | :--- |
-| 1 | <img src="gambar/create-akademik1.png" alt="Screenshot Query Contoh 1" width="350"> | <img src="gambar/output-create-akademik1.png" alt="Screenshot Output Latihan 1" width="350"> |
-| 2 | <img src="gambar/create-tabel-krs.png" alt="Screenshot Query Contoh 2" width="350"> | <img src="gambar/output-create-tabel-krs.png" alt="Screenshot Output Latihan 2" width="350"> |
+| 1 | <img src="gambar/create-akademik1.PNG" alt="Screenshot Query Contoh 1" width="500"> | <img src="gambar/output-create-akademik1.PNG" alt="Screenshot Output Latihan 1" width="500"> |
+| 2 | <img src="gambar/create-tabel-krs.PNG" alt="Screenshot Query Contoh 2" width="500"> | <img src="gambar/output-create-tabel-krs.PNG" alt="Screenshot Output Latihan 2" width="500"> |
 
 #### C. Tabel Modifikasi
 | No | Query | Output |
 | :---: | :--- | :--- |
-| 1 | <img src="pert3/gambar/latmodifikasi.png" alt="Screenshot Query Modifikasi 1" width="350"> | <img src="pert3/gambar/p1-output-latmodifikasi.png" alt="Screenshot Output Modifikasi 1" width="350"> |
+| 1 | <img src="gambar/latmodifikasi.PNG" alt="Screenshot Query Modifikasi 1" width="500"> | <img src="gambar/output-latmodifikasi.PNG" alt="Screenshot Output Modifikasi 1" width="500"> |
 
 ---
 
